@@ -1,9 +1,5 @@
 # Math Magicians
-
 "Math " is a website for that is used to make mathematics operations. It is a Single Page App (SPA) that allows users to Make simple calculations,Read a random math-related quote.
-
-![Screenshot (78)](https://user-images.githubusercontent.com/68381641/169891900-78c132db-9ec6-4ec4-a08e-1e1635373634.png)
-
 ## Built With
 - Reactjs
 - CSS
@@ -28,12 +24,15 @@ To use this project run `npm start` command in terminal of your editor project w
 - GitHub: [@yusufnviiri](https://github.com/yusufnviiri)
 - Twitter: [@YNviiri](https://twitter.com/YNviiri)
 - LinkedIn: [yusufnviiri]( https://www.linkedin.com/in/yusuf-nviiri-8b4146206/)
-## :handshake: Contributing
+### 🤝 Contributing
+
+
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
 ## Show your support
 Give a :star:️ if you like this project!
 ## Acknowledgments
 -   Great appreciation to Microverse community.
-## :memo: License
-This project is [MIT](./MIT.md) licensed.
+### 📝 License $ copyright
+
+This project is [MIT licensed](LICENSE).
