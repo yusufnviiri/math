@@ -1,11 +1,25 @@
-function App() {
-  return (
-    <div className="App">
+import React, { Component } from 'react';
+import Welcome from './components/calculator';
 
-      <h1>Hello Microverse</h1>
+class App extends Component {
+  constructor(props) {
+    super(props);
 
-    </div>
-  );
+    this.state = {
+
+    };
+  }
+
+  render() {
+    return (
+      <div className="App">
+
+        <h1>MY CALCULATOR</h1>
+        <Welcome />
+
+      </div>
+    );
+  }
 }
 
 export default App;
