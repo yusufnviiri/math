@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Welcome from './components/calculator';
+import Calculator from './components/calculator';
 
 class App extends Component {
   constructor(props) {
@@ -15,7 +15,7 @@ class App extends Component {
       <div className="App">
 
         <h1>MY CALCULATOR</h1>
-        <Welcome />
+        <Calculator />
 
       </div>
     );
