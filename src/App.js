@@ -13,7 +13,6 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-
         <h1>MY CALCULATOR</h1>
         <Calculator />
 
