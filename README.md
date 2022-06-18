@@ -6,6 +6,7 @@
 - Big.js library
 
 ## Live Demo
+[mathmagicians](mathsmagiciansbyyusuf.netlify.app)
 
 
 ## Getting Started
