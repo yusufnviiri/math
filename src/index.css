@@ -6,6 +6,7 @@ h1 {
 
 body {
   background-color: #f0e3e3;
+  font-family: sans-serif;
 }
 
 .container {
@@ -43,4 +44,73 @@ button {
   border: 1px solid #d1d1d1;
   font-size: 20px;
   font-weight: 600;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  width: 80%;
+  margin: auto;
+}
+
+.homepage {
+  width: 70%;
+  margin: auto;
+}
+
+.homepage p {
+  text-align: left;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.quote {
+  width: 80%;
+  margin: auto;
+  text-align: left;
+  font-size: 15px;
+  font-family: cursive;
+}
+
+.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 10%;
+}
+
+.navBar ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.navBar li {
+  list-style: none;
+  border-right: 2px solid #1a1313;
+}
+
+.navBar li:first-child {
+  padding-right: 10px;
+}
+
+.navBar li:last-child {
+  border-right: none;
+}
+
+.navBar li :nth-child(1) {
+  border-right: none;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.navBar li a {
+  color: blue;
+}
+
+.navBar li a:hover {
+  color: rgb(90, 205, 142);
 }
