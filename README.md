@@ -6,7 +6,7 @@
 - Big.js library
 
 ## Live Demo
-[mathmagicians](mathsmagiciansbyyusuf.netlify.app)
+[mathmagicians](https://fluffy-chebakia-f97092.netlify.app/calculator)
 
 
 ## Getting Started
